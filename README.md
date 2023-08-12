@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://stackoverflow.com/users/flair/7028056.png-->
 
-<a href="https://stackoverflow.com/users/7028056"><img src="https://stackoverflow.com/users/flair/7028056.png" width="208" height="58" alt="0xts - Stack Overflow profile" title="0xts - Stack Overflow profile"></a>
+<a href="https://stackoverflow.com/users/7028056/0xts"><img src="https://stackoverflow.com/users/flair/7028056.png?theme=dark" width="208" height="58" alt="profile for 0xts at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for 0xts at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
